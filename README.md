@@ -1,2 +1,11 @@
 # MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+## Week 1
+Here is my response for week 1.  I am going to write about sdfjksfdkjsdfjksdf.
+
+Here is another paragraph
+
+### Third level header
+#### Fourth level
+
+- Bullet point
+- Bullet point
